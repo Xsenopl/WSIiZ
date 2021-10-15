@@ -34,6 +34,6 @@ int dzialanie;
             else                { cout << liczba2 << "/" << liczba3 << "=" << liczba2 / liczba3 << endl; break; }
         default: cout << "Blad kalkulatora - ERROR!"; break;
     }
-return 0;
+return 0; //Bogusław Szura
 }
 
